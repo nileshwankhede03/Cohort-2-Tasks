@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue';
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+main{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    padding: 5px;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+}
+
+.card{
+    height: 400px;
+    width: 350px;
+    background-color: #fff;
+    border-radius: 12px;
+    margin: 10px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card img{
+    /* height: 150px; */
+    width: 150px;
+    object-fit: cover;
+    border-radius: 50px;
+}
+
+.card h3{
+    font-size: 30px;
+    white-space: nowrap; /* yane ex. FullStack Developer name jasa motha asen trr next line la jate tsa nkoy trr ekach line la hava so use hota he. */
+    text-align: center;
+    color: #FCA700;
+    margin-top: 2px;
+}
+
+.card h2{
+    white-space: nowrap; 
+    color:#1768DB;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.card p{
+    text-align: center;
+    opacity: 0.6;
+    font-size: 17px;
+    margin-top: 6px;
+    color: #292A2E;
+}

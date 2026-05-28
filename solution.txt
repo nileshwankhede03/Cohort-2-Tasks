@@ -1,0 +1,37 @@
+                                <div class="case-study-dt-solution-area mb-60">
+                                    <h2>Solution delivered</h2>
+                                    <p>Our team works closely with you to design practical strategies, implement them efficiently, and monitor outcomes—ensuring that every solution delivers measurable results, improved performance, and long-term growth.</p>
+                                </div>
+                                <div class="case-study-dt-process-area mb-60">
+                                    <h2>Our process</h2>
+                                    <ul class="case-study-dt-process-list">
+                                        <li class="single-process">
+                                            <strong class="process-no">p1.</strong>
+                                            <div class="process-content">
+                                                <h3>Current state financial assessment</h3>
+                                                <p>A structured analysis of financial operations to uncover risks, inefficiencies, and optimization opportunities.</p>
+                                            </div>
+                                        </li>
+                                        <li class="single-process">
+                                            <strong class="process-no">p2.</strong>
+                                            <div class="process-content">
+                                                <h3>Risk and gap identification</h3>
+                                                <p>Finding weaknesses, risks, and missing controls within current financial and operational processes.</p>
+                                            </div>
+                                        </li>
+                                        <li class="single-process">
+                                            <strong class="process-no">p3.</strong>
+                                            <div class="process-content">
+                                                <h3>Financial workflow redesign</h3>
+                                                <p>Redesigning financial processes to support scalable growth, compliance, and data-driven decision-making.</p>
+                                            </div>
+                                        </li>
+                                        <li class="single-process">
+                                            <strong class="process-no">p4.</strong>
+                                            <div class="process-content">
+                                                <h3>Ongoing advisory monitoring</h3>
+                                                <p>Ongoing monitoring and advisory support to maintain compliance, efficiency, and financial stability.</p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>

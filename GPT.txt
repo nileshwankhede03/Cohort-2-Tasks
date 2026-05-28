@@ -1,0 +1,286 @@
+            <!-- Case Study Details Page Section Start -->
+            <div class="case-study-details-page pb-140 mb-140">
+                <!-- <div class="title-area mb-70">
+                    <div class="container one">
+                        <div class="row justify-content-center">
+                            <div class="col-xl-10">
+                                <div class="section-title text-center fade_anim" data-delay=".2" data-fade-from="top">
+                                    <svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M20 0H9.23077L0 20H10.7692L20 0Z" />
+                                    </svg>
+                                    <span>Case Study Intro</span>
+                                    <h2>Helping a growing organization build financial structure, visibility, and scalability to support long-term expansion.</h2>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>  -->
+                <div class="container one">
+                    <div class="row gy-5 justify-content-between">
+                        <div class="col-xl-7 col-lg-8">
+                            <div class="case-study-dt-content-wrap">
+                                <!-- <div class="case-study-dt-thumb-img mb-60">
+                                    <img src="assets/img/innerpages/case-study-details-img.jpg" alt="">
+                                </div>
+                                <div class="case-study-dt-overview-area mb-60">
+                                    <h2>Aligning financial operations with business growth.</h2>
+                                    <p>Our team works closely with you to design practical strategies, implement them efficiently, and monitor
+                                    outcomes—ensuring that every solution delivers measurable results, improved performance, and long-term growth.</p>
+                                </div>
+                                <div class="case-study-dt-challenge-area mb-60">
+                                    <h2>Business challenges</h2>
+                                    <p>We turn complex business challenges into clear, actionable solutions by analyzing your unique operational, financial,
+                                    and strategic needs.</p>
+                                    <ul class="key-points">
+                                        <li>
+                                            <strong>Disconnected financial reporting across business units</strong>
+                                            <p>We turn complex business challenges into clear, actionable solutions by analyzing your unique operational, financial,
+                                            and strategic needs.</p>
+                                        </li>
+                                        <li>
+                                            <strong>Disconnected financial reporting</strong>
+                                            <p>Financial data was spread across systems, making it difficult to get a unified view of business performance.</p>
+                                        </li>
+                                        <li>
+                                            <strong>Weak growth forecasting accuracy</strong>
+                                            <p>We turn complex business challenges into clear, actionable solutions by analyzing your unique operational, financial,
+                                            and strategic needs.</p>
+                                        </li>
+                                    </ul>
+                                </div> -->
+                                <div class="case-study-dt-solution-area mb-60">
+                                    <h2>Solution delivered</h2>
+                                    <p>Our team works closely with you to design practical strategies, implement them efficiently, and monitor outcomes—ensuring that every solution delivers measurable results, improved performance, and long-term growth.</p>
+                                </div>
+                                <div class="case-study-dt-process-area mb-60">
+                                    <h2>Our process</h2>
+                                    <ul class="case-study-dt-process-list">
+                                        <li class="single-process">
+                                            <strong class="process-no">p1.</strong>
+                                            <div class="process-content">
+                                                <h3>Current state financial assessment</h3>
+                                                <p>A structured analysis of financial operations to uncover risks, inefficiencies, and optimization opportunities.</p>
+                                            </div>
+                                        </li>
+                                        <li class="single-process">
+                                            <strong class="process-no">p2.</strong>
+                                            <div class="process-content">
+                                                <h3>Risk and gap identification</h3>
+                                                <p>Finding weaknesses, risks, and missing controls within current financial and operational processes.</p>
+                                            </div>
+                                        </li>
+                                        <li class="single-process">
+                                            <strong class="process-no">p3.</strong>
+                                            <div class="process-content">
+                                                <h3>Financial workflow redesign</h3>
+                                                <p>Redesigning financial processes to support scalable growth, compliance, and data-driven decision-making.</p>
+                                            </div>
+                                        </li>
+                                        <li class="single-process">
+                                            <strong class="process-no">p4.</strong>
+                                            <div class="process-content">
+                                                <h3>Ongoing advisory monitoring</h3>
+                                                <p>Ongoing monitoring and advisory support to maintain compliance, efficiency, and financial stability.</p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <!-- <div class="case-study-dt-result-area mb-60">
+                                    <h2>Result & impact</h2>
+                                    <p>After aligning financial operations with business growth strategy, the organization achieved measurable improvements across reporting, visibility, compliance, and decision-making.</p>
+                                    <h3>Key performance improvements</h3>
+                                    <ul class="key-points">
+                                        <li>
+                                            <strong>Reporting speed improvement</strong>
+                                            <p>Faster financial closing and reporting cycles helped leadership access performance insights earlier.</p>
+                                        </li>
+                                        <li>
+                                            <strong>Financial data accuracy</strong>
+                                            <p>Standardized processes reduced reconciliation errors and improved data consistency.</p>
+                                        </li>
+                                        <li>
+                                            <strong>Cash flow visibility</strong>
+                                            <p>Improved real-time visibility into cash movement helped optimize working capital planning.</p>
+                                        </li>
+                                    </ul>
+                                    <div class="growth-chart-area">
+                                        <h3>Business growth (2005-26):</h3>
+                                        <div class="chart-card">
+                                            <div id="businessChart"></div>
+                                        </div>
+                                    </div>
+                                </div> -->
+                                <!-- <div class="case-study-dt-author-quote-area mb-70">
+                                    <div class="quote-icon">
+                                        <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+                                            <g>
+                                                <path fill-rule="evenodd" clip-rule="evenodd"
+                                                    d="M16.4659 3.5V13.0094H19.3428C21.5218 13.0094 23.5454 14.463 23.718 16.7014C23.7811 17.5208 23.7564 18.3306 23.5519 18.9559C22.8927 21.644 20.5857 21.9245 20.5857 21.9245V24.5C20.5857 24.5 28.0012 23.492 28.0012 15.428V3.5L16.4659 3.5ZM0.701173 3.5L0.701172 13.0094H3.57798C5.75705 13.0094 7.78061 14.463 7.95314 16.7014C8.01631 17.5208 7.99158 18.3306 7.7871 18.9559C7.12792 21.644 4.82089 21.9245 4.82089 21.9245V24.5C4.82089 24.5 12.2364 23.492 12.2364 15.428V3.5L0.701173 3.5Z"/>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                    <p>The improved financial structure and visibility have transformed how we make business decisions. We now operate with greater confidence, accuracy, and control as we continue to grow.</p>
+                                    <div class="author-info">
+                                        <strong>Christopher Wilson</strong>
+                                        <span>Founder of Accumen</span>
+                                    </div>
+                                </div> -->
+                                <!-- <div class="case-study-dt-cta-area">
+                                    <h3>Ready to align your financial operations with growth?</h3>
+                                    <a href="contact.html" class="primary-btn3 two">
+                                        <span data-text="Request a consultation">Request a consultation</span>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+                                            <g>
+                                                <path d="M8.88883 5L2.22217 10L2.22217 0L8.88883 5Z"></path>
+                                            </g>
+                                        </svg>
+                                    </a>
+                                    <img src="assets/img/innerpages/case-study-dt-cta-area-vector.png" alt="" class="vector">
+                                </div> -->
+                            </div>
+                        </div>
+                        <!-- <div class="col-lg-4">
+                            <div class="case-study-details-sidebar">
+                                <div class="case-study-details-info-wrap">
+                                    <table>
+                                        <tbody>
+                                            <tr>
+                                                <td><span>Category-</span></td>
+                                                <td>Financial advisory</td>
+                                            </tr>
+                                            <tr>
+                                                <td><span>Clients-</span></td>
+                                                <td>Daniel Scoot</td>
+                                            </tr>
+                                            <tr>
+                                                <td><span>Location-</span></td>
+                                                <td>Menchester, UK</td>
+                                            </tr>
+                                            <tr>
+                                                <td><span>Date-</span></td>
+                                                <td>29/03/2026</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <ul class="download-btns">
+                                        <li>
+                                            <a href="assets/company-desk.pdf" download="company-desk.pdf" class="primary-btn3">
+                                                <span data-text="Download Pdf">Download Pdf</span>
+                                                <svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+                                                    <g>
+                                                        <path d="M8.88883 5L2.22217 10L2.22217 0L8.88883 5Z"></path>
+                                                    </g>
+                                                </svg>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="assets/company-desk.pdf" download="company-desk.pdf" class="primary-btn3">
+                                                <span data-text="Download Docs">Download Docs</span>
+                                                <svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+                                                    <g>
+                                                        <path d="M8.88883 5L2.22217 10L2.22217 0L8.88883 5Z"></path>
+                                                    </g>
+                                                </svg>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="note-area">
+                                    <div class="title-area">
+                                        <h4>Note</h4>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+                                            <g>
+                                                <path d="M8.88932 5L2.22266 10L2.22266 0L8.88932 5Z"/>
+                                            </g>
+                                        </svg>
+                                    </div>
+                                    <div class="content">
+                                        <p><strong>Increased Brand Awareness:</strong> Following the rebrand, Brightwave reported a <strong>60% increase</strong> in brand recognition and media mentions.</p>
+                                        <ul>
+                                            <li>
+                                                <span>
+                                                    <svg width="8" height="8" viewBox="0 0 8 8" xmlns="http://www.w3.org/2000/svg">
+                                                        <g>
+                                                            <path d="M0.800781 8V0L7.20078 4L0.800781 8Z"/>
+                                                        </g>
+                                                    </svg>
+                                                    Avg. potential growth
+                                                </span>
+                                                <h5><strong class="counter_number">60</strong>%</h5>
+                                            </li>
+                                            <li>
+                                                <span>
+                                                    <svg width="10" height="10" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+                                                        <g>
+                                                            <path d="M1 10V0L9 5L1 10Z"></path>
+                                                        </g>
+                                                    </svg>
+                                                    Annual revenue generate
+                                                </span>
+                                                <h5>>$<strong class="counter_number">2</strong>M</h5>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <ul class="social-list">
+                                    <li>
+                                        <a href="https://www.facebook.com/">
+                                            <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M9.19709 15V8.62433H11.5664L11.9186 6.12805H9.19709V4.53802C9.19709 3.81769 9.41817 3.3245 10.557 3.3245H12V1.09892C11.2979 1.03062 10.5922 0.997637 9.88603 1.00013C7.79177 1.00013 6.3539 2.16076 6.3539 4.29143V6.12338H4V8.61966H6.35904V15H9.19709Z">
+                                                </path>
+                                            </svg>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://x.com/">
+                                            <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M12.025 2H14.1722L9.48225 7.08303L15 14H10.6801L7.2965 9.80414L3.42462 14H1.2765L6.29287 8.56276L1 2H5.43013L8.48825 5.83421L12.025 2ZM11.2725 12.7818H12.4625L4.78262 3.15448H3.50688L11.2725 12.7818Z">
+                                                </path>
+                                            </svg>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.linkedin.com/">
+                                            <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M3.32195 4.79697C4.12755 4.79697 4.78061 4.1439 4.78061 3.33831C4.78061 2.53271 4.12755 1.87964 3.32195 1.87964C2.51635 1.87964 1.86328 2.53271 1.86328 3.33831C1.86328 4.1439 2.51635 4.79697 3.32195 4.79697Z">
+                                                </path>
+                                                <path
+                                                    d="M6.15717 5.90312V13.9958H8.66983V9.99379C8.66983 8.93779 8.8685 7.91512 10.1778 7.91512C11.4692 7.91512 11.4852 9.12246 11.4852 10.0605V13.9965H13.9992V9.55846C13.9992 7.37846 13.5298 5.70312 10.9818 5.70312C9.7585 5.70312 8.9385 6.37446 8.60317 7.00979H8.56917V5.90312H6.15717ZM2.0625 5.90312H4.57917V13.9958H2.0625V5.90312Z">
+                                                </path>
+                                            </svg>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://youtube.com/">
+                                            <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                                                <path
+                                                    d="M8.04507 3H8.12295C8.84224 3.00267 12.4868 3.02936 13.4695 3.29807C13.7666 3.38008 14.0373 3.53993 14.2546 3.76164C14.4719 3.98336 14.6281 4.25917 14.7077 4.56153C14.7961 4.89964 14.8582 5.34718 14.9002 5.80897L14.909 5.9015L14.9282 6.13284L14.9352 6.22538C14.9921 7.03862 14.9991 7.80025 15 7.96663V8.03337C14.9991 8.20598 14.9913 9.01922 14.9282 9.86627L14.9212 9.95969L14.9134 10.0522C14.8696 10.5612 14.8049 11.0666 14.7077 11.4385C14.6281 11.7408 14.4719 12.0166 14.2546 12.2384C14.0373 12.4601 13.7666 12.6199 13.4695 12.7019C12.4545 12.9795 8.59635 12.9991 8.06169 13H7.93743C7.66704 13 6.54872 12.9947 5.37615 12.9537L5.22739 12.9484L5.15126 12.9448L5.00163 12.9386L4.85199 12.9324C3.88068 12.8888 2.95575 12.8185 2.5296 12.701C2.23263 12.6191 1.96199 12.4594 1.74472 12.2378C1.52744 12.0163 1.37113 11.7407 1.29139 11.4385C1.19426 11.0674 1.12951 10.5612 1.08576 10.0522L1.07875 9.9588L1.07175 9.86627C1.02832 9.26338 1.00439 8.65921 1 8.05472L1 7.94528C1.00175 7.75398 1.00875 7.09289 1.056 6.36329L1.06213 6.27164L1.06475 6.22538L1.07175 6.13284L1.09101 5.9015L1.09976 5.80897C1.14176 5.34718 1.20389 4.89875 1.29227 4.56153C1.37187 4.25917 1.52812 3.98336 1.74541 3.76164C1.96269 3.53993 2.2334 3.38008 2.53047 3.29807C2.95662 3.1824 3.88156 3.11122 4.85287 3.06673L5.00163 3.0605L5.15213 3.05517L5.22739 3.0525L5.37702 3.04627C6.20982 3.01904 7.04296 3.00392 7.87618 3.00089L8.04507 3ZM6.60035 5.85613V10.143L10.238 8.00044L6.60035 5.85613Z">
+                                                </path>
+                                            </svg>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="copy-link-btn">
+                                            <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                                                <g>
+                                                    <path
+                                                        d="M4.96206 15.9944C6.24478 15.9944 7.50497 15.5218 8.47261 14.5541L9.8003 13.2265C10.0703 12.9564 10.0703 12.5288 9.8003 12.2813C9.53027 12.0113 9.10268 12.0113 8.85514 12.2813L7.52741 13.609C6.1097 15.0042 3.81433 15.0042 2.39662 13.609C1.0014 12.1913 1.0014 9.89591 2.39662 8.4782L3.72431 7.15052C3.99434 6.88049 3.99434 6.4529 3.72431 6.20536C3.45429 5.93534 3.0267 5.93534 2.77916 6.20536L1.45147 7.53305C-0.48385 9.46837 -0.48385 12.6188 1.45147 14.5541C2.41915 15.5218 3.67934 15.9944 4.96206 15.9944ZM12.7483 10.0084C12.9283 10.0084 13.0858 9.94092 13.2208 9.80589L14.5485 8.4782C16.4838 6.54288 16.4838 3.39243 14.5485 1.45711C12.6132 -0.478215 9.46273 -0.478215 7.52741 1.45711L6.19968 2.78479C5.92966 3.05482 5.92966 3.48241 6.19968 3.72995C6.46971 3.99997 6.89729 3.99997 7.14484 3.72995L8.47252 2.40226C9.89023 1.00703 12.1856 1.00703 13.6033 2.40226C14.9985 3.81997 14.9985 6.11534 13.6033 7.53305L12.2756 8.86078C12.0056 9.1308 12.0056 9.55839 12.2756 9.80593C12.4107 9.94092 12.5683 10.0084 12.7483 10.0084Z">
+                                                    </path>
+                                                    <path
+                                                        d="M6.28916 10.391C6.46921 10.391 6.62673 10.3235 6.76172 10.1884L10.1822 6.76791C10.4523 6.49789 10.4523 6.0703 10.1822 5.82276C9.91222 5.55273 9.48463 5.55273 9.23709 5.82276L5.81657 9.24328C5.54654 9.51331 5.54654 9.9409 5.81657 10.1884C5.95164 10.3234 6.10916 10.391 6.28916 10.391Z">
+                                                    </path>
+                                                </g>
+                                            </svg>
+                                            <span class="copy-alert">Copied!</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+            <!-- Case Study Details Page Section End -->

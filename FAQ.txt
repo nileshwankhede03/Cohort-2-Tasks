@@ -1,0 +1,320 @@
+        <!-- home1 Faq Section Start-->
+        <div class="home1-faq-section mb-150">
+          <div class="container one">
+            <div class="row justify-content-center">
+              <div class="col-xl-8 col-lg-10">
+                <div class="section-title two text-center mb-70">
+                  <h2 class="text-anim" data-delay="0.3">Ask & Questions</h2>
+                </div>
+                <div class="faq-wrap">
+                  <div
+                    class="accordion accordion-flush"
+                    id="accordionFlushExample"
+                  >
+                    <div
+                      class="accordion-item fade_anim"
+                      data-delay=".2"
+                      data-fade-from="top"
+                    >
+                      <h2 class="accordion-header" id="flush-headingOne">
+                        <button
+                          class="accordion-button"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#flush-collapseOne"
+                          aria-expanded="false"
+                          aria-controls="flush-collapseOne"
+                        >
+                          What industries does Nitroxen serve?
+                        </button>
+                      </h2>
+                      <div
+                        id="flush-collapseOne"
+                        class="accordion-collapse collapse show"
+                        data-bs-parent="#accordionFlushExample"
+                      >
+                        <div class="accordion-body">
+                          Nitroxen works across agriculture, AgriTech,
+                          automation, manufacturing, business technology, and
+                          digital innovation sectors.
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="accordion-item fade_anim"
+                      data-delay=".3"
+                      data-fade-from="top"
+                    >
+                      <h2 class="accordion-header" id="flush-headingTwo">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#flush-collapseTwo"
+                          aria-expanded="false"
+                          aria-controls="flush-collapseTwo"
+                        >
+                          What solutions does Nitroxen specialize in?
+                        </button>
+                      </h2>
+                      <div
+                        id="flush-collapseTwo"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample"
+                      >
+                        <div class="accordion-body">
+                          We specialize in smart agriculture, AI systems, IoT
+                          integration, automation, custom software development,
+                          dashboards, and digital transformation solutions.
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="accordion-item fade_anim"
+                      data-delay=".4"
+                      data-fade-from="top"
+                    >
+                      <h2 class="accordion-header" id="flush-headingThree">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#flush-collapseThree"
+                          aria-expanded="false"
+                          aria-controls="flush-collapseThree"
+                        >
+                          Do you provide customized solutions?
+                        </button>
+                      </h2>
+                      <div
+                        id="flush-collapseThree"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample"
+                      >
+                        <div class="accordion-body">
+                          Yes. Every solution is designed based on business
+                          requirements, operational challenges, and scalability
+                          needs.
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="accordion-item fade_anim"
+                      data-delay=".4"
+                      data-fade-from="top"
+                    >
+                      <h2 class="accordion-header" id="flush-headingFour">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#flush-collapseFour"
+                          aria-expanded="false"
+                          aria-controls="flush-collapseFour"
+                        >
+                          Can Nitroxen integrate IoT devices and sensors?
+                        </button>
+                      </h2>
+                      <div
+                        id="flush-collapseFour"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample"
+                      >
+                        <div class="accordion-body">
+                          Yes. We develop and integrate connected IoT systems
+                          for monitoring, automation, analytics, and operational
+                          optimization.
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="accordion-item fade_anim"
+                      data-delay=".4"
+                      data-fade-from="top"
+                    >
+                      <h2 class="accordion-header" id="flush-headingFive">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#flush-collapseFive"
+                          aria-expanded="false"
+                          aria-controls="flush-collapseFive"
+                        >
+                          Do you provide dashboard and monitoring systems?
+                        </button>
+                      </h2>
+                      <div
+                        id="flush-collapseFive"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample"
+                      >
+                        <div class="accordion-body">
+                          Yes. We create centralized dashboards with real-time
+                          data monitoring, analytics, and cloud connectivity.
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="accordion-item fade_anim"
+                      data-delay=".4"
+                      data-fade-from="top"
+                    >
+                      <h2 class="accordion-header" id="flush-headingSix">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#flush-collapseSix"
+                          aria-expanded="false"
+                          aria-controls="flush-collapseSix"
+                        >
+                          How does Nitroxen support smart farming?
+                        </button>
+                      </h2>
+                      <div
+                        id="flush-collapseSix"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample"
+                      >
+                        <div class="accordion-body">
+                          Our smart farming solutions include irrigation
+                          automation, soil monitoring, crop analytics, water
+                          intelligence, and AI-powered farm management systems.
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="accordion-item fade_anim"
+                      data-delay=".4"
+                      data-fade-from="top"
+                    >
+                      <h2 class="accordion-header" id="flush-headingSix">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#flush-collapseSix"
+                          aria-expanded="false"
+                          aria-controls="flush-collapseSix"
+                        >
+                          Does Nitroxen work with startups and enterprises?
+                        </button>
+                      </h2>
+                      <div
+                        id="flush-collapseSix"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample"
+                      >
+                        <div class="accordion-body">
+                          Yes. We collaborate with startups, SMEs, and growing
+                          enterprises to build scalable and future-ready
+                          technology solutions.
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="accordion-item fade_anim"
+                      data-delay=".4"
+                      data-fade-from="top"
+                    >
+                      <h2 class="accordion-header" id="flush-headingSix">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#flush-collapseSix"
+                          aria-expanded="false"
+                          aria-controls="flush-collapseSix"
+                        >
+                          What makes Nitroxen different?
+                        </button>
+                      </h2>
+                      <div
+                        id="flush-collapseSix"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample"
+                      >
+                        <div class="accordion-body">
+                          Nitroxen focuses on practical innovation — building
+                          technology solutions that are scalable,
+                          purpose-driven, and aligned with real operational
+                          challenges rather than just theoretical concepts.
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="accordion-item fade_anim"
+                      data-delay=".4"
+                      data-fade-from="top"
+                    >
+                      <h2 class="accordion-header" id="flush-headingSix">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#flush-collapseSix"
+                          aria-expanded="false"
+                          aria-controls="flush-collapseSix"
+                        >
+                          Do you offer consultation before implementation?
+                        </button>
+                      </h2>
+                      <div
+                        id="flush-collapseSix"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample"
+                      >
+                        <div class="accordion-body">
+                          Yes. We provide consultations to understand business
+                          needs, recommend suitable technologies, and define the
+                          best implementation approach.
+                        </div>
+                      </div>
+                    </div>
+                    <div
+                      class="accordion-item fade_anim"
+                      data-delay=".4"
+                      data-fade-from="top"
+                    >
+                      <h2 class="accordion-header" id="flush-headingSix">
+                        <button
+                          class="accordion-button collapsed"
+                          type="button"
+                          data-bs-toggle="collapse"
+                          data-bs-target="#flush-collapseSix"
+                          aria-expanded="false"
+                          aria-controls="flush-collapseSix"
+                        >
+                          How can we collaborate with Nitroxen?
+                        </button>
+                      </h2>
+                      <div
+                        id="flush-collapseSix"
+                        class="accordion-collapse collapse"
+                        data-bs-parent="#accordionFlushExample"
+                      >
+                        <div class="accordion-body">
+                          You can connect with our team through the contact
+                          section to discuss your business goals, technology
+                          requirements, or collaboration opportunities.
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="support-area fade_anim"
+                  data-delay=".2"
+                  data-ease="bounce"
+                >
+                  <span
+                    >Don’t find your question?
+                    <a href="contact.html">Let’s chat</a></span
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- home1 Faq Section End-->
